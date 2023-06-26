@@ -56,6 +56,8 @@ Another challenge was to add probability to the already randomised numbers.
 
 <img width="419" alt="Adding Probability" src="https://github.com/rushang-patel/Cricket-T-20/assets/134887327/518a79e4-cb86-49a6-b986-2362a3e44158">
 
+# Link to the Game:
+https://rushang-patel.github.io/Cricket-T-20/
 
 # Next Steps:
 
