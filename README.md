@@ -55,3 +55,8 @@ Figuring out the reset structure was hard. I needed the reset button to appear o
 Another challenge was to add probability to the already randomised numbers.
 
 <img width="419" alt="Adding Probability" src="https://github.com/rushang-patel/Cricket-T-20/assets/134887327/518a79e4-cb86-49a6-b986-2362a3e44158">
+
+
+# Next Steps:
+
+I would like to add more functionality to the game. I want to add live scoreboards for all 11 players. Definitely add fireworks to the win condition and maybe when you roll a 6. Add animations to the rolled numbers as well as add images to show different shots to the rolled numbers.
