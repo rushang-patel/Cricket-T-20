@@ -27,3 +27,11 @@ Welcome to the Cricket T-20 Game! This is a simple text-based game where you can
    - If both teams have the same score, the match ends in a tie.
 
 Enjoy playing the Cricket T-20 Game and experience the excitement of a thrilling cricket match!
+
+
+
+# Languages Used:
+
+This cricket game utilizes a combination of JavaScript, HTML, and CSS to create an interactive and immersive gaming experience. JavaScript is employed for various functionalities, such as simulating batting and bowling, updating the scorecard, managing wicket losses, and determining the winner. DOM manipulation is a key aspect of JavaScript usage, allowing for dynamic updates to the game interface, scorecard, and other game elements.
+
+HTML provides the structure and layout of the game, defining the elements, containers, and displays required. CSS is responsible for the visual styling, including the design of the game board, scorecard, fonts, and other visual elements. By leveraging these technologies, the game achieves seamless interactivity, responsive design, and a captivating user interface, enhancing the overall cricket gaming experience.
