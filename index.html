@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Cricket T-20</title>
+  </head>
+  <body>
+    <script defer src="script.js"></script>
+    <div class="container">
+      <div class="header">CRICKET T-20</div>
+
+      <div class="target">
+        <button id="setTargetButton" onclick="setTarget()">Set Target</button>
+        <div id="cpuScore"></div>
+        <div id="remainingRuns">Remaining Runs: 0</div>
+        <div id="wicketsRemaining">Wickets Remaining: 11</div>
+        <div id="oversRemaining">Overs Remaining: 20</div>
+      </div>
+
+      <div class="buttons">
+        <button id="restartButton" onclick="restart()" style="display: none">
+          Restart
+        </button>
+      </div>
+      <div class="buttons">
+        <button id="playButton" onclick="play()" disabled>Play</button>
+      </div>
+
+      <div class="result-area">
+        <div id="rolledNumber"></div>
+        <span class="display-number"></span>
+      </div>
+
+      <div class="tally-area">
+        <div id="rolledNumberTally" class="rolledNumberTally"></div>
+      </div>
+
+      <div class="current">
+        <div id="playerRuns">Player Runs: 0</div>
+        <div id="wickets">Wickets Down: 0</div>
+        <div id="overs">Overs: 0</div>
+        <div id="balls">Balls: 0</div>
+      </div>
+    </div>
+  </body>
+</html>
