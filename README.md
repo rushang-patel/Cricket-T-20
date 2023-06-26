@@ -28,10 +28,21 @@ Welcome to the Cricket T-20 Game! This is a simple text-based game where you can
 
 Enjoy playing the Cricket T-20 Game and experience the excitement of a thrilling cricket match!
 
+#Gameplay
 
 
-# Languages Used:
+
+
+
+# Technologies Used:
 
 This cricket game utilizes a combination of JavaScript, HTML, and CSS to create an interactive and immersive gaming experience. JavaScript is employed for various functionalities, such as simulating batting and bowling, updating the scorecard, managing wicket losses, and determining the winner. DOM manipulation is a key aspect of JavaScript usage, allowing for dynamic updates to the game interface, scorecard, and other game elements.
 
 HTML provides the structure and layout of the game, defining the elements, containers, and displays required. CSS is responsible for the visual styling, including the design of the game board, scorecard, fonts, and other visual elements. By leveraging these technologies, the game achieves seamless interactivity, responsive design, and a captivating user interface, enhancing the overall cricket gaming experience.
+
+
+# Challenges:
+
+Figuring out the reset structure was hard. I needed the reset button to appear only when the game conditions were met, and I wanted the reset button to reset all elements and make the reset button disappears when pressed.
+
+Another challenge was to add probability to the already randomised numbers.
