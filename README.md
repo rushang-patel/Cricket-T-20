@@ -28,10 +28,13 @@ Welcome to the Cricket T-20 Game! This is a simple text-based game where you can
 
 Enjoy playing the Cricket T-20 Game and experience the excitement of a thrilling cricket match!
 
-#Gameplay
+# Gameplay
 
+<img width="672" alt="Base" src="https://github.com/rushang-patel/Cricket-T-20/assets/134887327/1197df9e-674c-4293-bc89-f610de48daee">
 
+<img width="666" alt="Gameplay" src="https://github.com/rushang-patel/Cricket-T-20/assets/134887327/f9be6bf4-b2ab-41f8-a04d-dc3c9d20355e">
 
+<img width="680" alt="Loss" src="https://github.com/rushang-patel/Cricket-T-20/assets/134887327/bb5d7b5d-0e25-4061-8add-078a5835e34b">
 
 
 # Technologies Used:
